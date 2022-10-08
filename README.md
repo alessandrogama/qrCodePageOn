@@ -30,4 +30,4 @@ npm run dev
 ```
 ### Screenshot
 
-![image](https://github.com/alessandrogama/qrCodePageOne/blob/master/screenshots/desktop.png?raw=true)
+![image](https://github.com/alessandrogama/qrCodePageOn/blob/main/screenshots/desktop.png?raw=true)
